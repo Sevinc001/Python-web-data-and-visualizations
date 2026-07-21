@@ -15,7 +15,7 @@ This repository showcases my completed projects from advanced Python data course
 **Project Previews:**
 * **Network Graph Layout:**
   
-  ![Force-Directed Layout](images/web_11.jpg)
+  ![Force-Directed Layout](images/web_112.jpg)
 
 * **PageRank Terminal Execution:**
   
